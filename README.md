@@ -80,6 +80,7 @@ import pythoncom  # Inicialización de componentes COM
 - **filedialog y messagebox**: Sirven para mostrar mensajes y seleccionar archivos.
 - **docx2pdf**: Realiza la conversión de archivos de Word a PDF.
 - **pythoncom**: Inicializa y limpia los procesos de conversión relacionados con COM.
+```
 
 ### Función de Conversión
 
@@ -111,14 +112,7 @@ def convert_docx_to_pdf(docx_file, pdf_path, progress_bar, progress_var, total_f
     finally:
         # Liberar recursos COM
         pythoncom.CoUninitialize()
-
-
-
-
-
-
-
-
+```
 
 
 ## 🧑‍💻 Explicación:
@@ -141,6 +135,7 @@ root = tk.Tk()
 root.title("Conversor Word a PDF")
 
 root.geometry("700x750")
+```
 
 ## 🛠️ Elementos de interfaz
 
@@ -274,15 +269,6 @@ progress_bar.pack(pady=10)
 root.mainloop()
 
 ```
-
-
-
-
-
-
-
-
-
 
 ## 🛡️ Mejores Prácticas
 
