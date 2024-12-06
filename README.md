@@ -11,6 +11,8 @@ En este tutorial, aprenderemos a desarrollar una **aplicación de escritorio mul
 - Mejores Prácticas
 - Posibles Mejoras
 
+![Portada](fondo.webp)
+
 🌟 **Introducción**
 
 ### Contexto del Proyecto
