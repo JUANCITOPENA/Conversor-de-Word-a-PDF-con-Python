@@ -1,3 +1,5 @@
+![Portada](fondo.webp)
+
 ## 🎯 Objetivo del Proyecto
 En este tutorial, aprenderemos a desarrollar una **aplicación de escritorio multiplataforma** que convierte archivos de **Microsoft Word (.docx)** a **PDF** de manera rápida y eficiente. Utilizaremos **Python**, **Tkinter** para la interfaz gráfica y la librería **docx2pdf** para realizar la conversión de documentos.
 
@@ -11,7 +13,7 @@ En este tutorial, aprenderemos a desarrollar una **aplicación de escritorio mul
 - Mejores Prácticas
 - Posibles Mejoras
 
-![Portada](fondo.webp)
+![Portada](PORTADA.png)
 
 🌟 **Introducción**
 
